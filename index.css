@@ -1,0 +1,11 @@
+tablero {
+    margin: 0 auto;
+}
+
+.row>div {
+    width: 150px;
+    height: 150px;
+    border: solid;
+    background-color: #4179aa;
+    display: inline-block;
+}
